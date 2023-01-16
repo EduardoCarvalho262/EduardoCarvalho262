@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Carvalho
 
 - 🔭 Desenvolvedor JR BackEnd em .NET
-- 🌱 Estudando .Net Core e Angular
+- 🌱 Estudando .Net Core e Golang
 - 📫 Contate-me no e-mail: eduardoc313@gmail.com
 - 😄 Pronouns: ele/dele
 
