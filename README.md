@@ -4,12 +4,6 @@
 - 🌱 Estudando .Net Core e Golang
 - 📫 Contate-me no e-mail: eduardoc313@gmail.com
 - 😄 Pronouns: ele/dele
-
-<div>
-  <a href="https://github.com/EduardoCarvalho262">
-  <img height="180em" src="[https://github-readme-stats.vercel.app](https://eduardo-carvalho262.vercel.app/)/api/top-langs/?username=EduardoCarvalho262&layout=compact&langs_count=7&theme=dark"/>
-    
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
