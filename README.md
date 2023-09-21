@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Carvalho</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardocarvalho262&label=Profile%20views&color=0e75b6&style=flat" alt="eduardocarvalho262" /> </p>
 
