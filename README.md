@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **GFT**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **BackEnd**
 
 - 💬 Ask me about **.NET and C#**
 
