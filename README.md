@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardocarvalho262&label=Profile%20views&color=0e75b6&style=flat" alt="eduardocarvalho262" /> </p>
 
-- 🔭 I’m currently working on **HaimuTech**
+- 🔭 I’m currently working on **GFT**
 
 - 🌱 I’m currently learning **Golang**
 
