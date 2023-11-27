@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **BackEnd**
 
-- 💬 Ask me about **.NET and C#**
+- 💬 Ask me about **C# and Java**
 
 - 📫 How to reach me **eduardoc313@gmail.com**
 
