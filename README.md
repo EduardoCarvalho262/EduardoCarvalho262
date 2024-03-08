@@ -1,22 +1,35 @@
-<h1 align="center">Hi 👋, I'm Eduardo Carvalho</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0" />
+## Que surpresa te encontrar aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-- 🔭 I’m currently working on **GFT**
+Olá! Sou Eduardo Carvalho, também conhecido como Edu, um Engenheiro de Software Full-Stack com três anos de experiência. Tenho paixão por criar soluções inovadoras que impulsionam a transformação digital. Com expertise em .NET, Java, Angular e Typescript, construo aplicações robustas e de alto desempenho para atender às necessidades dos clientes. Estou sempre aberto a colaborações e novos desafios. Vamos trabalhar juntos para alcançar grandes feitos! Conecte-se comigo aqui:
 
-- 🌱 I’m currently learning **BackEnd**
+[![Linkedin Badge](https://img.shields.io/badge/-EduardoCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/eduardo-carvalho-576075180/)
+[![Instagram Badge](https://img.shields.io/badge/-oeduardo.carvalho-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/oeduardo.carvalho/)](https://instagram.com/oeduardo.carvalho)
+[![Youtube Badge](https://img.shields.io/badge/-youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/)
+[![Medium Badge](https://img.shields.io/badge/-medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/)](https://medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-eduardoc313@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoc313@gmail.com)](mailto:eduardoc313@gmail.com)
 
-- 💬 Ask me about **C# and Java**
+## ⚡ Technologias
 
-- 📫 How to reach me **eduardoc313@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eduardo-carvalho-576075180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-carvalho-576075180" height="30" width="40" /></a>
-<a href="https://instagram.com/oeduardo.carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oeduardo.carvalho" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> </a> </p>
-
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=White)
+![Angular](https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-01006c?style=flat-square&logo=typescript)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat-square&logo=springboot)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Golang](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Tailwind](https://img.shields.io/badge/-TailwindCss-0000FF?style=flat-square&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&logoColor=ff4100)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
