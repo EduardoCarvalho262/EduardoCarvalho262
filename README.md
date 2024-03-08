@@ -1,6 +1,6 @@
 ## Que surpresa te encontrar aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Olá! Sou Eduardo Carvalho, também conhecido como Edu, um Engenheiro de Software Full-Stack com três anos de experiência. Tenho paixão por criar soluções inovadoras que impulsionam a transformação digital. Com expertise em .NET, Java, Angular e Typescript, construo aplicações robustas e de alto desempenho para atender às necessidades dos clientes. Estou sempre aberto a colaborações e novos desafios. Vamos trabalhar juntos para alcançar grandes feitos! Conecte-se comigo aqui:
+Olá! Sou Eduardo Carvalho, um Engenheiro de Software Full-Stack com três anos de experiência. Tenho paixão por criar soluções inovadoras que impulsionam a transformação digital. Com expertise em .NET, Java, Angular e Typescript, construo aplicações robustas e de alto desempenho para atender às necessidades dos clientes. Estou sempre aberto a colaborações e novos desafios. Vamos trabalhar juntos para alcançar grandes feitos! Conecte-se comigo aqui:
 
 [![Linkedin Badge](https://img.shields.io/badge/-EduardoCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/eduardo-carvalho-576075180/)
 [![Instagram Badge](https://img.shields.io/badge/-oeduardo.carvalho-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/oeduardo.carvalho/)](https://instagram.com/oeduardo.carvalho)
