@@ -6,7 +6,7 @@ Olá! Sou Eduardo Carvalho, um Engenheiro de Software Full-Stack com três anos 
 [![Instagram Badge](https://img.shields.io/badge/-oeduardo.carvalho-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/oeduardo.carvalho/)](https://instagram.com/oeduardo.carvalho)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.TO-000000?style=flat-square&logo=devdotto&link=https://dev.to/dudu_crew)](https://dev.to/dudu_crew)
-[![Gmail Badge](https://img.shields.io/badge/-eduardoc313@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoc313@gmail.com)](mailto:eduardoc313@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-eduardoc313@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduenglish262@gmail.com)](mailto:eduenglish262@gmail.com)
 
 ## ⚡ Technologias
 
