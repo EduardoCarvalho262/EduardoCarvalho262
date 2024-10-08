@@ -1,6 +1,6 @@
 ## Que surpresa te encontrar aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Olá! Sou Eduardo Carvalho, um Engenheiro de Software Full-Stack com três anos de experiência. Tenho paixão por criar soluções inovadoras que impulsionam a transformação digital. Com expertise em .NET, Java, Angular e Typescript, construo aplicações robustas e de alto desempenho para atender às necessidades dos clientes. Estou sempre aberto a colaborações e novos desafios. Vamos trabalhar juntos para alcançar grandes feitos! Conecte-se comigo aqui:
+Olá! Sou Eduardo Carvalho, um Engenheiro de Software Full-Stack com três anos de experiência. Tenho paixão por criar soluções inovadoras que impulsionam a transformação digital. Com expertise em .NET, Java, construo aplicaçõespar a atender às necessidades dos clientes gerando valor. Estou sempre aberto a colaborações e novos desafios. Vamos trabalhar juntos para alcançar grandes feitos! Conecte-se comigo aqui:
 
 [![Linkedin Badge](https://img.shields.io/badge/-EduardoCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/eduardo-carvalho-576075180/)
 [![Instagram Badge](https://img.shields.io/badge/-oeduardo.carvalho-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/oeduardo.carvalho/)](https://instagram.com/oeduardo.carvalho)
@@ -27,7 +27,6 @@ Olá! Sou Eduardo Carvalho, um Engenheiro de Software Full-Stack com três anos 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&logoColor=ff4100)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
