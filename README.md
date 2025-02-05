@@ -11,9 +11,6 @@ Olá! Sou Eduardo Carvalho, um Engenheiro de Software Full-Stack com 4 anos de e
 ## ⚡ Technologias
 
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=White)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat-square&logo=springboot)
-![Golang](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Angular](https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-01006c?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
